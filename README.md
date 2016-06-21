@@ -97,6 +97,9 @@ remember because of the __.htaccess__ file we wrote above our html file will onl
 ## Compressing your scripts:
 Minify and compress your files, you can use task managers like __gulp__, __grunt__ or __npm__ for the job.
 
++ Learn more about [resource minification](https://developers.google.com/web/fundamentals/performance/optimizing-content-efficiency/optimize-encoding-and-transfer#minification-preprocessing--context-specific-optimizations)
++ Learn more about text [compression with GZip](https://developers.google.com/web/fundamentals/performance/optimizing-content-efficiency/optimize-encoding-and-transfer#text-compression-with-gzip)
+
 
 <div id='id-section3'></div>
 
