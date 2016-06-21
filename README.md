@@ -1,6 +1,6 @@
 ![logo](http://3.bp.blogspot.com/-PTty3CfTGnA/TpZOEjTQ_WI/AAAAAAAAAeo/KeKt_D5X2xo/s1600/js.jpg "JS logo")
 
-# Write JS code that perform better!
+# Write JS code that performs better!
 Simple tips and healthy habits you can follow to be capable of drastically reducing the browser's workload and time needed to render each frame.
 
 __Author: Nedal Kouissi__
