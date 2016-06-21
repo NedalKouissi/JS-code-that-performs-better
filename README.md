@@ -19,7 +19,7 @@ Simple tips and healthy habits you can follow to be capable of drastically reduc
 + [Allocate only what you need](#id-section10)
 + [Be aware of any event, interval you add](#id-section11)
 + [Reduce reflow and repaint on your page](#id-section12)
-+ [](#id-section13)
++ [async & deffer](#id-section13)
 + [](#id-section14)
 + [](#id-section15)
 + [](#id-section16)
@@ -350,6 +350,11 @@ document.body.appendChild(frag);
 
 <div id='id-section13'></div>
 
-## Reduce reflow and repaint on your page
+## async & deffer
 
-to be continued !
+i can't explain better than this : [async vs defer attributes](http://www.growingwiththeweb.com/2014/02/async-vs-defer-attributes.html)
+
+
+<div id='id-section14'></div>
+
+## ato becontinued
