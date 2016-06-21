@@ -3,7 +3,7 @@
 # Write JS code that performs better!
 __Author: Nedal Kouissi__
 
-Simple tips and healthy habits you can follow to be capable of drastically reducing the browser's workload and time needed to render each frame.
+>Simple tips and healthy habits you can follow to be capable of drastically reducing the browser's workload and time needed to >render each frame.
 
 
 ### In this article
@@ -352,7 +352,7 @@ document.body.appendChild(frag);
 
 ## async & deffer
 
-i can't explain better than this : [async vs defer attributes](http://www.growingwiththeweb.com/2014/02/async-vs-defer-attributes.html)
+I can't explain it better than this : [async vs defer attributes](http://www.growingwiththeweb.com/2014/02/async-vs-defer-attributes.html)
 
 
 <div id='id-section14'></div>
