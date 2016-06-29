@@ -20,24 +20,7 @@ __Author: Nedal Kouissi__
 + [Be aware of any event, interval you add](#id-section11)
 + [Reduce reflow and repaint on your page](#id-section12)
 + [async & deffer](#id-section13)
-+ [](#id-section14)
-+ [](#id-section15)
-+ [](#id-section16)
-+ [](#id-section17)
-+ [](#id-section18)
-+ [](#id-section19)
-+ [](#id-section20)
-+ [](#id-section21)
-+ [](#id-section22)
-+ [](#id-section23)
-+ [](#id-section24)
-+ [](#id-section25)
-+ [](#id-section26)
-+ [](#id-section27)
-+ [](#id-section28)
-+ [](#id-section29)
-+ [](#id-section30)
-+ [](#id-section31)
++ [to be continue](#id-section14)
 
 
 <div id='id-section1'></div>
@@ -357,4 +340,4 @@ I can't explain it better than this : [async vs defer attributes](http://www.gro
 
 <div id='id-section14'></div>
 
-## ato becontinued
+## to be continue
